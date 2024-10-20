@@ -2,7 +2,19 @@
 <h1 align="center">Hi, I'm Aayam Bhatt</h1>
 <h3 align="center">Final year Computer Science Engineering student and aspiring software engineer.</h3>
 
-<p align="left"> <a href="https://twitter.com/aayambhatt" target="blank"><img src="https://img.shields.io/twitter/follow/aayambhatt?logo=twitter&style=for-the-badge" alt="aayambhatt" /></a> </p>
+<p align="left">
+  <a href="https://x.com/aayambhatt" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20@aayambhatt-000000?style=for-the-badge&logo=x&logoColor=white" alt="aayambhatt on X" />
+  </a>
+  <a href="https://instagram.com/aayambhatt" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20@aayambhatt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aayambhatt on Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/aayambhatt" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20@aayambhatt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="aayambhatt on LinkedIn" />
+  </a>
+</p>
+
+
 
 - 🔭 I’m currently working on **a web development project**
 
