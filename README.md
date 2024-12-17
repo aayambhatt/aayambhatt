@@ -1,43 +1,42 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/1054049128429191168/1621576523/1500x500)
 <h1 align="center">Hi, I'm Aayam Bhatt</h1>
 <h3 align="center">Final year Computer Science Engineering student and aspiring software engineer.</h3>
 
-<p align="left">
-  <a href="https://instagram.com/aayambhatt" target="blank">
-    <img src="https://img.shields.io/badge/Follow%20@aayambhatt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aayambhatt on Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/aayambhatt" target="blank">
-    <img src="https://img.shields.io/badge/Follow%20@aayambhatt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="aayambhatt on LinkedIn" />
-  </a>
-</p>
+
+# 💫 About Me:
+🔭 I’m currently working on a web development project<br><br>🌱 I’m currently learning Js, React<br><br>💬 Ask me about JavaScript, Data Structures and Algorithms.<br><br>📫 How to reach me aayambhatt23@gmail.com<br><br>⚡ Fun fact I like photography, passion for VHS cameras and video games.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aayambhatt) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-AayamBhatt-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/AayamBhatt/)
+[![aayambhattt](https://img.shields.io/badge/-aayambhattt-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/aayambhattt)
+[![DEV](https://img.shields.io/badge/DEV-aayambhattt-%23000000.svg?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aayambhatt)
+[![Hashnode](https://img.shields.io/badge/Hashnode-aayambhattt-%232962FF.svg?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@aayambhatt)
+[![Kaggle](https://img.shields.io/badge/Kaggle-AayamBhatt-%23020F4B.svg?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/aayambhatt)
 
 
 
-- 🔭 I’m currently working on **a web development project**
 
-- 🌱 I’m currently learning **Js, NodeJS**
 
-- 💬 Ask me about **JavaScript, Data Structures and Algorithms.**
 
-- 📫 How to reach me **aayambhatt23@gmail.com**
 
-- ⚡ Fun fact **I like photography, passion for VHS cameras and video games.**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aayambhatt&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aayambhatt&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayambhatt&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/aayambhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aayambhatt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayambhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayambhatt" height="30" width="40" /></a>
-<a href="https://kaggle.com/aayambhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aayambhatt" height="30" width="40" /></a>
-<a href="https://instagram.com/aayambhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayambhatt" height="30" width="40" /></a>
-<a href="https://hashnode.com/@aayambhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aayambhatt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aayambhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayambhatt" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aayambhatt&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayambhatt&show_icons=true&locale=en&layout=compact" alt="aayambhatt" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aayambhatt&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayambhatt&show_icons=true&locale=en" alt="aayambhatt" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=aayambhatt&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayambhatt&" alt="aayambhatt" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
