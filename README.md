@@ -10,8 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aayambhatt) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-AayamBhatt-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/AayamBhatt/)
 [![aayambhattt](https://img.shields.io/badge/-aayambhattt-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/aayambhattt)
-[![DEV](https://img.shields.io/badge/DEV-aayambhattt-%23000000.svg?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aayambhatt)
-[![Hashnode](https://img.shields.io/badge/Hashnode-aayambhattt-%232962FF.svg?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@aayambhatt)
+[![DEV](https://img.shields.io/badge/DEV-aayambhatt-%23000000.svg?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aayambhatt)
+[![Hashnode](https://img.shields.io/badge/Hashnode-aayambhatt-%232962FF.svg?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@aayambhatt)
 [![Kaggle](https://img.shields.io/badge/Kaggle-AayamBhatt-%23020F4B.svg?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/aayambhatt)
 
 
