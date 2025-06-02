@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aayam Bhatt</h1>
-<h3 align="center">Final year Computer Science Engineering student and aspiring software engineer.</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 # 💫 About Me:
