@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a web development project<br><br>🌱 I’m currently learning NodeJS, React<br><br>💬 Ask me about JavaScript, Data Structures and Algorithms.<br><br>📫 How to reach me aayambhatt23@gmail.com<br><br>⚡ Fun fact I like photography, passion for VHS cameras and video games.
+🔭 I’m currently working on data structures and algorithms<br><br>🌱 I’m currently learning Python, software engineering<br><br>💬 Ask me about Python, Backend Development.<br><br>📫 How to reach me aayambhatt23@gmail.com<br><br>⚡ Fun fact I like photography, passion for VHS cameras and video games.
 
 
 ## 🌐 Socials:
